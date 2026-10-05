@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1791132524 source:g:\my drive\university\year 2\software module\cw\route_finder_v1\nearest_neighbour.cpp
+	<iostream>
+	<cstdlib>
+	"nearest_neighbour.h"
+	"dist_calc.h"
+
+1791132846 source:g:\my drive\university\year 2\software module\cw\route_finder_v1\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"nearest_neighbour.h"
+
+1791132531 g:\my drive\university\year 2\software module\cw\route_finder_v1\nearest_neighbour.h
+
+1791132529 source:g:\my drive\university\year 2\software module\cw\route_finder_v1\dist_calc.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	"dist_calc.h"
+
+1791132533 g:\my drive\university\year 2\software module\cw\route_finder_v1\dist_calc.h
+
